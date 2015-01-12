@@ -1,0 +1,14 @@
+{
+  "rtnCode": "0000000",
+  "msg": "系统正常",
+  "bizData": {
+    "help": "http://t.xy189.cn/help.html",
+    "baseService": "http://imzhiliao.com:10002",
+    "userService": "http://imzhiliao.com:10002",
+    "relationService": "http://imzhiliao.com:10002",    
+
+    "messageService": "http://imzhiliao.com:10001",
+    "fileService": "http://imzhiliao.com:10002/file/upload/savefile.shtml",
+    "shareUrl":"http://imzhiliao.com:10002/v1/share/view/share-rem.html?classId="
+  }
+}

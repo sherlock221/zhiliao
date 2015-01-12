@@ -1,0 +1,13 @@
+{
+  "rtnCode": "0000000",
+  "msg": "系统正常",
+  "bizData": {
+    "help": "http://t.xy189.cn/help.html",
+    "baseService": "http://10.10.68.11:8080",
+    "userService": "http://10.10.68.11:8080",
+    "relationService": "http://10.10.68.11:8080",
+    "messageService": "http://10.10.68.12:8080",
+    "fileService": "http://10.10.68.11:8080/file/upload/savefile.shtml",
+    "shareUrl":"http://10.10.68.11:8080/v1/h5/view/share-rem.html?classId="
+  }
+}
