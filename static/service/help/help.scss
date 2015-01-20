@@ -1,8 +1,13 @@
 @charset "utf-8";
 
 
-//导入方法
-@import "../base/fun";
+////导入方法
+//@import "../base/fun";
+
+//纯px
+@function rem($px){
+  @return  $px / 2 ;
+}
 
 
 html{
@@ -28,6 +33,15 @@ html{
   font-size: rem(30px);
 
   line-height: 24px;
+
+}
+
+
+div {
+  img{
+
+    margin-top: 25px;
+  }
 
 }
 

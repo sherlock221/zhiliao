@@ -15,6 +15,9 @@ html {
   font-size: 15px;
   line-height: 24px; }
 
+div img {
+  margin-top: 25px; }
+
 .help-content {
   padding: 11.5px 0; }
   .help-content .nav-toggle {
