@@ -77,6 +77,10 @@ var helpData = {
             "questionName": "知了软件出现:“小知了累了”或“网络不给力”怎么办",
             "questionUrl": "./view/help/知了软件出现小知了累了.html"
         },
+        {
+            "questionName": "活跃值规则",
+            "questionUrl": "./view/help/活跃值规则.html"
+        },
 
 
 
